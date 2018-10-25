@@ -1,4 +1,5 @@
 {
   "ServiceNow": {"numRows" : 21},
+  "test": {"numRows" : 21},
   "SystemMonitoring" : [{"numRows" : 55},{"numRows" : 45}]
 }
