@@ -1,4 +1,4 @@
 {
-  "ServiceNow": {"tickets" : {"numRows" : 21}},
-  "SystemMonitoring" : {"cpu" : {"temperature": {"numRows" : 45}, "usage": {"numRows" : 75}}, "disk": {"quota" : {"numRows" : 55}}}
+  "ServiceNow": {"numRows" : 21},
+  "SystemMonitoring" : {"numRows" : 55}
 }
