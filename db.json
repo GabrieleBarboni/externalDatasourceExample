@@ -1,4 +1,4 @@
 {
-  "ServiceNow": {"opened" : 21},
+  "ServiceNow": {"opened" : 21, "closed" : 42},
   "SystemMonitoring" : [{"name":"Ticket #1","description":"Ticket description #1","id":1,"numRows" : 55},{"name":"Ticket #2","description":"Ticket description #2","id":2,"numRows" : 45}]
 }
